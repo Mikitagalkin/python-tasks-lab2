@@ -115,7 +115,7 @@ python-tasks-lab2/
 ### Установка
 ```bash
 # Клонирование репозитория
-git clone https://github.com/your-username/python-tasks-lab2.git
+git clone https://github.com/Mikitagalkin/python-tasks-lab2.git
 cd python-tasks-lab2
 Запуск программ
 python task4_gcd.py
